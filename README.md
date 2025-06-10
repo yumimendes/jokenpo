@@ -27,10 +27,3 @@ Make sure you have **Python 3** installed. Then run:
 
 ```bash
 python jokenpo.py
-
-
-Made with 💜 by Yumi Mendes while learning Python.
-This is my first public repository. I hope it helps or inspires someone else who’s learning too!
-
-
-ps.: This game was originally made in Portuguese 🇧🇷, but I translated most of it to english.
